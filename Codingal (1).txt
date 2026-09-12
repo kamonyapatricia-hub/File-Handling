@@ -1,3 +1,2 @@
-This is file in write mode...Today we have Pharell and Hannie in class,They are learning about operations on a file.
- File in append Mode...
- Appending means adding another text at the end of the file.
+
+Hi welcome to codingal
